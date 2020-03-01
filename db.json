@@ -1,0 +1,392 @@
+{
+  "patients": [
+    {
+      "id": "5856675843",
+      "firstName": "Milt",
+      "lastName": "Rosenbaum",
+      "gender": "Male",
+      "dateOfBirth": "15/01/2005",
+      "email": "mrosenbaum0@fastcompany.com",
+      "phoneNumber": "+351 161 160 5674",
+      "prescriptions": ["Lidocaine Viscous"],
+      "doctorId": 1
+    },
+    {
+      "id": "8272482266",
+      "firstName": "Faydra",
+      "lastName": "Lief",
+      "gender": "Female",
+      "dateOfBirth": "29/09/2003",
+      "email": "flief1@apache.org",
+      "phoneNumber": "+86 503 995 7341",
+      "prescriptions": ["Mucinex", "Aspirin"],
+      "doctorId": 2
+    },
+    {
+      "id": "6877351762",
+      "firstName": "Roxane",
+      "lastName": "Alflat",
+      "gender": "Female",
+      "dateOfBirth": "14/01/2014",
+      "email": "ralflat2@pcworld.com",
+      "phoneNumber": "+1 914 731 0603",
+      "prescriptions": [],
+      "doctorId": 2
+    },
+    {
+      "id": "0323339832",
+      "firstName": "Willy",
+      "lastName": "Entwisle",
+      "gender": "Female",
+      "dateOfBirth": "24/09/1949",
+      "email": "wentwisle3@reddit.com",
+      "phoneNumber": "+351 550 612 9238",
+      "prescriptions": [
+        "Rich Almond Perfecting Makeup Broad Spectrum SPF 25",
+        "VITAMIN CREAM",
+        "NITRO-DUR"
+      ],
+      "doctorId": 3
+    },
+    {
+      "id": "4772181415",
+      "firstName": "Bjorn",
+      "lastName": "Bolgar",
+      "gender": "Male",
+      "dateOfBirth": "09/07/1985",
+      "email": "bbolgar4@wired.com",
+      "phoneNumber": "+7 375 198 3116",
+      "prescriptions": ["Vanilla Fig Hand Sanitizer"],
+      "doctorId": 2
+    },
+    {
+      "id": "5942660123",
+      "firstName": "Ardith",
+      "lastName": "Kilmartin",
+      "gender": "Female",
+      "dateOfBirth": "14/12/1949",
+      "email": "akilmartin5@google.co.jp",
+      "phoneNumber": "+1 773 365 8289",
+      "prescriptions": ["NEXIUM", "Clear Defense"],
+      "doctorId": 3
+    },
+    {
+      "id": "6467006526",
+      "firstName": "Walt",
+      "lastName": "Moule",
+      "gender": "Male",
+      "dateOfBirth": "12/05/2005",
+      "email": "wmoule6@businessinsider.com",
+      "phoneNumber": "+967 897 754 8473",
+      "prescriptions": [],
+      "doctorId": 3
+    },
+    {
+      "id": "6906950363",
+      "firstName": "Fedora",
+      "lastName": "Johnston",
+      "gender": "Female",
+      "dateOfBirth": "27/08/1959",
+      "email": "fjohnston7@noaa.gov",
+      "phoneNumber": "+505 127 699 7118",
+      "prescriptions": ["DELUXE Dish DETERGENT"],
+      "doctorId": 3
+    },
+    {
+      "id": "3711892663",
+      "firstName": "Jo-anne",
+      "lastName": "Furmonger",
+      "gender": "Female",
+      "dateOfBirth": "29/01/1953",
+      "email": "jfurmonger8@baidu.com",
+      "phoneNumber": "+62 826 530 5184",
+      "prescriptions": ["Acyclovir", "Palmers Amaranth"],
+      "doctorId": 1
+    },
+    {
+      "id": "9335192813",
+      "firstName": "Gerome",
+      "lastName": "Stutte",
+      "gender": "Male",
+      "dateOfBirth": "31/05/1984",
+      "email": "gstutte9@joomla.org",
+      "phoneNumber": "+81 855 427 4970",
+      "prescriptions": ["Emtriva"],
+      "doctorId": 1
+    },
+    {
+      "id": "9148648280",
+      "firstName": "Terza",
+      "lastName": "Luffman",
+      "gender": "Female",
+      "dateOfBirth": "11/03/1967",
+      "email": "tluffmana@nasa.gov",
+      "phoneNumber": "+996 965 458 8176",
+      "prescriptions": ["Simethicone"],
+      "doctorId": 3
+    },
+    {
+      "id": "2628193531",
+      "firstName": "Broddie",
+      "lastName": "Pyser",
+      "gender": "Male",
+      "dateOfBirth": "03/05/1983",
+      "email": "bpyserb@zdnet.com",
+      "phoneNumber": "+48 178 447 2839",
+      "prescriptions": ["Cepacol", "Betimol", "SkinMedica Acne Treatment"],
+      "doctorId": 2
+    },
+    {
+      "id": "9080034797",
+      "firstName": "Bobbie",
+      "lastName": "Collcutt",
+      "gender": "Male",
+      "dateOfBirth": "26/06/1945",
+      "email": "bcollcuttc@about.me",
+      "phoneNumber": "+62 210 115 2345",
+      "prescriptions": [
+        "Aspirin",
+        "Triamcinolone Acetonide",
+        "Arnica",
+        "Amiodarone HCl"
+      ],
+      "doctorId": 2
+    },
+    {
+      "id": "1836342993",
+      "firstName": "Gui",
+      "lastName": "Calafato",
+      "gender": "Female",
+      "dateOfBirth": "06/02/1976",
+      "email": "gcalafatod@dyndns.org",
+      "phoneNumber": "+223 986 377 1926",
+      "prescriptions": [],
+      "doctorId": 2
+    },
+    {
+      "id": "2313633187",
+      "firstName": "Giustino",
+      "lastName": "Trump",
+      "gender": "Male",
+      "dateOfBirth": "14/11/1970",
+      "email": "gtrumpe@ox.ac.uk",
+      "phoneNumber": "+86 576 920 4320",
+      "prescriptions": ["Diazepam", "Avita"],
+      "doctorId": 2
+    },
+    {
+      "id": "7443183089",
+      "firstName": "Konstantine",
+      "lastName": "Giacomazzo",
+      "gender": "Male",
+      "dateOfBirth": "13/11/1976",
+      "email": "kgiacomazzof@europa.eu",
+      "phoneNumber": "+62 932 572 6939",
+      "prescriptions": [
+        "antacid",
+        "topcare cold",
+        "Zolpidem Tartrate",
+        "H-Balm"
+      ],
+      "doctorId": 3
+    },
+    {
+      "id": "0826869947",
+      "firstName": "Frazier",
+      "lastName": "Kell",
+      "gender": "Male",
+      "dateOfBirth": "01/08/1965",
+      "email": "fkellg@admin.ch",
+      "phoneNumber": "+63 699 479 5697",
+      "prescriptions": [],
+      "doctorId": 1
+    },
+    {
+      "id": "9837816546",
+      "firstName": "Bernetta",
+      "lastName": "Blaksley",
+      "gender": "Female",
+      "dateOfBirth": "25/02/1971",
+      "email": "bblaksleyh@is.gd",
+      "phoneNumber": "+62 597 202 8816",
+      "prescriptions": [
+        "ESIKA PERFECT SKIN COVERAGE CONCEALER SPF 17",
+        "Sanatos"
+      ],
+      "doctorId": 3
+    },
+    {
+      "id": "3640243196",
+      "firstName": "Gallagher",
+      "lastName": "Gownge",
+      "gender": "Male",
+      "dateOfBirth": "28/07/1962",
+      "email": "ggowngei@exblog.jp",
+      "phoneNumber": "+212 999 852 9248",
+      "prescriptions": ["Trauma Relief"],
+      "doctorId": 1
+    },
+    {
+      "id": "7000982209",
+      "firstName": "Orlando",
+      "lastName": "Merrisson",
+      "gender": "Male",
+      "dateOfBirth": "16/02/2003",
+      "email": "omerrissonj@state.gov",
+      "phoneNumber": "+55 746 739 2855",
+      "prescriptions": [],
+      "doctorId": 1
+    },
+    {
+      "id": "1737471639",
+      "firstName": "Brinn",
+      "lastName": "Rignall",
+      "gender": "Female",
+      "dateOfBirth": "29/04/1995",
+      "email": "brignallk@psu.edu",
+      "phoneNumber": "+62 977 501 9337",
+      "prescriptions": ["good neighbor pharmacy nicotine"],
+      "doctorId": 3
+    },
+    {
+      "id": "2304724825",
+      "firstName": "Yulma",
+      "lastName": "Clemmey",
+      "gender": "Male",
+      "dateOfBirth": "04/06/2005",
+      "email": "yclemmeyl@addtoany.com",
+      "phoneNumber": "+86 504 203 0288",
+      "prescriptions": [],
+      "doctorId": 3
+    },
+    {
+      "id": "5968411171",
+      "firstName": "Karalynn",
+      "lastName": "Flanigan",
+      "gender": "Female",
+      "dateOfBirth": "12/04/1961",
+      "email": "kflaniganm@instagram.com",
+      "phoneNumber": "+351 196 245 4761",
+      "prescriptions": [
+        "Losartan Potassium and Hydrochlorothiazide",
+        "Cefuroxime Axetil",
+        "Perfect Choice",
+        "Carbamazepine"
+      ],
+      "doctorId": 2
+    },
+    {
+      "id": "9734152637",
+      "firstName": "Chiarra",
+      "lastName": "McBoyle",
+      "gender": "Female",
+      "dateOfBirth": "25/07/2008",
+      "email": "cmcboylen@state.tx.us",
+      "phoneNumber": "+30 514 742 5866",
+      "prescriptions": [
+        "Methocarbamol",
+        "Divalproex Sodium",
+        "amlodipine besylate and atorvastatin calcium",
+        "HAHNEMANN HEADACHE"
+      ],
+      "doctorId": 2
+    },
+    {
+      "id": "1762198355",
+      "firstName": "Maurita",
+      "lastName": "Mulvin",
+      "gender": "Female",
+      "dateOfBirth": "31/07/1980",
+      "email": "mmulvino@paginegialle.it",
+      "phoneNumber": "+86 996 378 4606",
+      "prescriptions": [
+        "Canova Immune Support",
+        "Night Time Original",
+        "CAREALL Naproxen"
+      ],
+      "doctorId": 2
+    },
+    {
+      "id": "3040805614",
+      "firstName": "Lynn",
+      "lastName": "Hissie",
+      "gender": "Male",
+      "dateOfBirth": "09/06/1993",
+      "email": "lhissiep@loc.gov",
+      "phoneNumber": "+86 121 572 6358",
+      "prescriptions": [
+        "Softlips Intense Moisture Berry Mint",
+        "Secret Scent Expressions",
+        "Levothyroxine Sodium"
+      ],
+      "doctorId": 3
+    },
+    {
+      "id": "9294716392",
+      "firstName": "Shepperd",
+      "lastName": "Novichenko",
+      "gender": "Male",
+      "dateOfBirth": "25/08/1945",
+      "email": "snovichenkoq@nbcnews.com",
+      "phoneNumber": "+62 504 359 8278",
+      "prescriptions": [],
+      "doctorId": 2
+    },
+    {
+      "id": "4896085515",
+      "firstName": "Walden",
+      "lastName": "Layzell",
+      "gender": "Male",
+      "dateOfBirth": "09/02/1971",
+      "email": "wlayzellr@bravesites.com",
+      "phoneNumber": "+62 542 572 5694",
+      "prescriptions": [],
+      "doctorId": 2
+    },
+    {
+      "id": "1167501519",
+      "firstName": "Marcile",
+      "lastName": "Foulser",
+      "gender": "Female",
+      "dateOfBirth": "05/05/2002",
+      "email": "mfoulsers@columbia.edu",
+      "phoneNumber": "+7 502 839 8713",
+      "prescriptions": [],
+      "doctorId": 1
+    },
+    {
+      "id": "5784260863",
+      "firstName": "Kay",
+      "lastName": "Bottby",
+      "gender": "Female",
+      "dateOfBirth": "24/10/1969",
+      "email": "kbottbyt@nasa.gov",
+      "phoneNumber": "+593 680 823 2110",
+      "prescriptions": [
+        "Pumpkin Spice Antibacterial Foaming Hand Wash",
+        "Nystatin"
+      ],
+      "doctorId": 2
+    }
+  ],
+  "doctors": [
+    {
+      "id": 1,
+      "doctor": "Dr. Coventry",
+      "email": "ecoventry@amspractice.nl",
+      "onDuty": true
+    },
+    {
+      "id": 2,
+      "doctor": "Dr. Adenet",
+      "email": "radenet@amspractice.nl",
+      "onDuty": true
+    },
+    {
+      "id": 3,
+      "doctor": "Dr. Tollady",
+      "email": "atollady@amspractice.nl",
+      "onDuty": false
+    }
+  ]
+}
