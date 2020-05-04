@@ -30,7 +30,10 @@
       "dateOfBirth": "14/01/2014",
       "email": "ralflat2@pcworld.com",
       "phoneNumber": "+1 914 731 0603",
-      "prescriptions": [],
+      "prescriptions": [
+        "ARBUTINUM",
+        "Cetirizine Hydrochloride"
+      ],
       "doctorId": 2
     },
     {
