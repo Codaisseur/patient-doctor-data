@@ -121,20 +121,23 @@
   "doctors": [
     {
       "id": 1,
-      "dogtor": "Dr. Coventry",
-      "email": "ecoventry@amspractice.nl",
+      "dogtor": "Dr. Golden",
+      "imageUrl": "https://media.istockphoto.com/photos/dog-doctor-picture-id824016544?s=612x612",
+      "email": "golden@amspractice.nl",
       "onDuty": true
     },
     {
       "id": 2,
-      "dogtor": "Dr. Adenet",
-      "email": "radenet@amspractice.nl",
+      "dogtor": "Dr. Happy",
+      "imageUrl": "https://media.istockphoto.com/photos/medical-doctor-dog-picture-id490056552",
+      "email": "happy@amspractice.nl",
       "onDuty": true
     },
     {
       "id": 3,
-      "dogtor": "Dr. Tollady",
-      "email": "atollady@amspractice.nl",
+      "dogtor": "Dr. Good Boy",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0654/0895/articles/doctor-dog_5dc4901a-3248-4e79-97b4-253fa61dce5a.jpg?v=1525270302",
+      "email": "good-boy@amspractice.nl",
       "onDuty": false
     }
   ]
