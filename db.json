@@ -9,7 +9,7 @@
       "email": "mrosenbaum0@fastcompany.com",
       "phoneNumber": "+351 161 160 5674",
       "prescriptions": ["Lidocaine Viscous"],
-      "doctorId": 1
+      "dogtorId": 1
     },
     {
       "id": "8272482266",
@@ -20,7 +20,7 @@
       "email": "flief1@apache.org",
       "phoneNumber": "+86 503 995 7341",
       "prescriptions": ["Mucinex", "Aspirin"],
-      "doctorId": 2
+      "dogtorId": 2
     },
     {
       "id": "6877351762",
@@ -34,7 +34,7 @@
         "ARBUTINUM",
         "Cetirizine Hydrochloride"
       ],
-      "doctorId": 2
+      "dogtorId": 2
     },
     {
       "id": "0323339832",
@@ -49,7 +49,7 @@
         "VITAMIN CREAM",
         "NITRO-DUR"
       ],
-      "doctorId": 3
+      "dogtorId": 3
     },
     {
       "id": "4772181415",
@@ -60,7 +60,7 @@
       "email": "bbolgar4@wired.com",
       "phoneNumber": "+7 375 198 3116",
       "prescriptions": ["Vanilla Fig Hand Sanitizer"],
-      "doctorId": 2
+      "dogtorId": 2
     },
     {
       "id": "5942660123",
@@ -71,7 +71,7 @@
       "email": "akilmartin5@google.co.jp",
       "phoneNumber": "+1 773 365 8289",
       "prescriptions": ["NEXIUM", "Clear Defense"],
-      "doctorId": 3
+      "dogtorId": 3
     },
     {
       "id": "6467006526",
@@ -82,7 +82,7 @@
       "email": "wmoule6@businessinsider.com",
       "phoneNumber": "+967 897 754 8473",
       "prescriptions": [],
-      "doctorId": 3
+      "dogtorId": 3
     },
     {
       "id": "6906950363",
@@ -93,7 +93,7 @@
       "email": "fjohnston7@noaa.gov",
       "phoneNumber": "+505 127 699 7118",
       "prescriptions": ["DELUXE Dish DETERGENT"],
-      "doctorId": 3
+      "dogtorId": 3
     },
     {
       "id": "3711892663",
@@ -104,7 +104,7 @@
       "email": "jfurmonger8@baidu.com",
       "phoneNumber": "+62 826 530 5184",
       "prescriptions": ["Acyclovir", "Palmers Amaranth"],
-      "doctorId": 1
+      "dogtorId": 1
     },
     {
       "id": "9335192813",
@@ -115,7 +115,7 @@
       "email": "gstutte9@joomla.org",
       "phoneNumber": "+81 855 427 4970",
       "prescriptions": ["Emtriva"],
-      "doctorId": 1
+      "dogtorId": 1
     }
   ],
   "dogtors": [
